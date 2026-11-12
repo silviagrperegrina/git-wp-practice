@@ -15,3 +15,29 @@ p {
     font-size: 10px;
     line-height: 1.6;
 }
+
+/* sección ABOUT */
+#about {
+    background-color: white;
+    max-width: 650px;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+#about h2 {
+    color: #2271b1;
+}
+
+#about ul {
+    list-style: none;
+    padding: 0px;
+}
+
+#about li {
+    background-color: #e8f2fa;
+    margin: 10px 0;
+    padding: 12px;
+    border-radius: 6px;
+}
